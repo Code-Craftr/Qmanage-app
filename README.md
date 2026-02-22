@@ -156,6 +156,3 @@ The frontend attempts API fetch first and gracefully falls back to these JSON as
 
 Issues, ideas, and PRs are welcome. Please raise an issue before large changes so we can collaborate on direction.
 
-## 📄 License
-
-MIT © Parth Bansal
